@@ -63,7 +63,7 @@ This is an AI-based Fake News Detection system that classifies whether a news ar
 
 ## 🖼️ Screenshot
 
-![Gradio UI](UI.png)
+![Gradio UI](UI.PNG)
 
 ---
 
