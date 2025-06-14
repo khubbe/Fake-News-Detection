@@ -63,7 +63,7 @@ This is an AI-based Fake News Detection system that classifies whether a news ar
 
 ## 🖼️ Screenshot
 
-![Gradio UI](UI .png)
+![Gradio UI](UI.png)
 
 ---
 
@@ -92,11 +92,14 @@ This project is open-source under the MIT License.
 
 ---
 
-```markdown
 ## 👨‍💻 Author
 
 **Khubaib Jahanzaib Shah**
 BSCS Student | AI & Software Developer
 
+```markdown
 📫 [Email me](mailto:khubaibshah2002@gmail.com)
 🌐 [GitHub Profile](https://github.com/khubbe)
+```
+
+---
