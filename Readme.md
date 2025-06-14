@@ -6,12 +6,14 @@ This is an AI-based Fake News Detection system that classifies whether a news ar
 
 ## 🚀 Features
 
-- Cleans and preprocesses news data (removes stopwords, symbols, etc.)
-- Uses **TF-IDF Vectorizer** to convert text into numerical features
-- Trained on **Naive Bayes Classifier** for high accuracy
-- Has a **Gradio-based Web UI** for real-time predictions
-- Includes visualization with **confusion matrix**
-
+<details>
+<summary>📌 Click to expand features</summary>
+- ✅ Cleans and preprocesses news data (removes stopwords, symbols, etc.)
+- ✅ Uses **TF-IDF Vectorizer** to convert text into numerical features
+- ✅ Trained on **Naive Bayes Classifier** for high accuracy
+- ✅ Has a **Gradio-based Web UI** for real-time predictions
+- ✅ Includes visualization with **confusion matrix**
+</details>
 ---
 
 ## 📂 Dataset
@@ -57,7 +59,7 @@ This is an AI-based Fake News Detection system that classifies whether a news ar
 
 ## 🖼️ Screenshot
 
-![Gradio UI](UI.png)
+![Gradio UI]("UI .png")
 
 ---
 
@@ -69,20 +71,28 @@ Install all dependencies:
 ```bash
 pip install nltk scikit-learn gradio matplotlib seaborn pandas
 
+---
 
 ## ▶️ Running the App
 Use this command in your terminal:
-
+```bash
 python Fake_News_Detector.ipynb
 Or launch the notebook using Jupyter/Colab and run all cells.
 
+--- 
 
 ## 📜 License
 This project is open-source under the MIT License.
 
-## 👨‍💻 Author
-Khubaib Jahanzaib Shah
-BSCS Student | AI & Software Developer
-📫 Email: khubaibshah2002@gmail.com 
-🌐 GitHub: [khubbe](https://github.com/khubbe)
+---
 
+```markdown
+## 👨‍💻 Author
+
+**Khubaib Jahanzaib Shah**
+BSCS Student | AI & Software Developer
+
+📫 [Email me](mailto:khubaibshah2002@gmail.com)
+🌐 [GitHub Profile](https://github.com/khubbe)
+
+---
